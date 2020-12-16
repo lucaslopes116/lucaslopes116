@@ -1,4 +1,4 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQEuBxRHCH0TmA/profile-displaybackgroundimage-shrink_200_800/0/1516938529834?e=1613606400&v=beta&t=UgZJhcP-sRCg2A5elaMT0HWIh5Mm5jTS9h_z0t6_ZGU">
+<img width="auto" src="https://snipcart.com/media/203792/node-js-react-strapi-1.png">
 
 
 # Luca Fernando
