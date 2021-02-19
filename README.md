@@ -1,4 +1,4 @@
-<img width="auto" src="https://snipcart.com/media/203792/node-js-react-strapi-1.png">
+<img width="auto" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2017/12/reactjs-vs-reactnative-16-09-19.jpg">
 
 
 # Luca Fernando
