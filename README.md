@@ -1,7 +1,7 @@
 <img width="auto" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2017/12/reactjs-vs-reactnative-16-09-19.jpg">
 
 
-# Luca Fernando
+# Lucas Fernando dos Santos Lopes
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
