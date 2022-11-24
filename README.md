@@ -8,9 +8,9 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Arquia Inovação e Tecnologia**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e mobile usando React Native
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Redux & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Destiny 2, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lopes-1495b6ba/)](https://www.linkedin.com/in/lucas-lopes-1495b6ba/) 
 | 
