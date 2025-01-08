@@ -1,4 +1,4 @@
-<img width="auto" src="https://neetable.com/img/blog/blog-inner/react-node-js-for-full-stack-web-development/why-combine-react-and-node-js-for-full-stack-web-development.jpg">
+<img width="auto" src="https://blog.fellyph.com.br/wp-content/uploads/2016/06/react-js.png">
 
 
 # Lucas Fernando dos Santos Lopes
